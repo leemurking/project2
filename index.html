@@ -8,6 +8,7 @@
     <link rel="stylesheet" href="bootstrap-5.0.1-dist/css/bootstrap.min.css">
     <link rel="stylesheet" href="bootstrap-5.0.1-dist/css/bootstrap.css">
     <link rel="stylesheet" href="bootstrap-5.0.1-dist/js/bootstrap.js">
+    <script src="myscripts.js"></script>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
@@ -21,10 +22,10 @@
     <div class="card">
       <div class="card-body">
         <div class="row">
-          <div class="col-md-6">
+          <div id="wueh" class="col-md">
             <img class="dmg" src="kan.jpeg" alt="p">
           </div>
-          <div class="col-md-6">
+          <div id="meh" class="col-md">
             <p>The Akan are a meta-ethnicity predominantly speaking Central Tano languages and
                  residing in the southern regions of the former Gold Coast region in what is today
                  the nation of Ghana. Akans who historically migrated from Ghana also make up a
@@ -40,10 +41,10 @@
     <div class="card">
       <div class="card-body">
         <div class="row">
-          <div class="col-md-6">
+          <div id="wueh" class="col-md">
             <img class="img" src="215px-State_Gifts_Presentation_Sword.jpeg" alt="" width="90%">
           </div>
-          <div class="col-md-6">
+          <div id="meh" class="col-md">
             <p>Akan conflicts led to a high number of military captives being sold into slavery
                known as "Coromantee". These Coromantee soldiers and other Akan captives were
                notorious for a large number of slave revolts and plantation resistance tactics.
@@ -58,10 +59,10 @@
     <div class="card">
       <div class="card-body">
         <div class="row">
-          <div class="col-md-6">
-            <img class="tng" src="img.jpeg" alt="" width="90%" height="90%">
+          <div id="wueh" class="col-md">
+            <img class="tng" src="1.jpg" alt="" width="90%" height="90%">
           </div>
-          <div class="col-md-6">
+          <div id="meh" class="col-md">
             <p>Akan culture can also be found in the New World.A number of Akans were taken as
                  captives to the Americas. Roughly ten-percent of all slave ships embarked from the
                  Gold Coast. The primary source of wealth within Akan economy was gold. However as
@@ -75,27 +76,30 @@
     </div>
   </div>
   <br>
-  <p>You can also be part of The Akan people and embrace their vast culture.By filling the form
-     you can be able to know your Akan name.Please enter the required credentials:
-  </p>
-  <div class="enter">
-    <div class="form">
-      <form>
-        <table>
-          <img src="images/ghana.jpeg" width="10%" class="ghana">
-        <p>Days  : <input TYPE="text" NAME="day" SIZE="2"> </p>
-        <p>Month: <input TYPE="text" NAME="month" SIZE="2"> </p>
-        <p>Year : <input TYPE="text" NAME="year" SIZE="4"> </p>
-        <h6><u><b>GENDER</b></h6></u></h>
-        <div class="button">
-        <p><input type="button" value="Male"  ONCLICK="compute(this.form)"></p>
-        </div>
-        <p><input type="button" value="Female" ONCLICK="tomm(this.form)"></p>
-        <p>Date of Birth: <input TYPE="text" NAME="result1" SIZE="18"> </p>
-        <p>Akan Name: <input TYPE="text" NAME="result2" SIZE="18"> </p>
-        </table>
-      </form>
-    </div>
-  </div>
+  <section>
+    <p class="out">To make this fun, you can also be part of The Akan people and embrace their vast culture by filling the form
+        and getting to know your Akan name.
+     </p>
+     <div class="enter">
+       <div class="form">
+         <form>
+           <table>
+             <p class="w">Please enter the required credentials:</p>
+           <p class="d">Days  : <input TYPE="text" NAME="day" SIZE="2"> </p>
+           <p class="d">Month: <input TYPE="text" NAME="month" SIZE="2"> </p>
+           <p class="d">Year : <input TYPE="text" NAME="year" SIZE="4"> </p>
+           <h6 class="e"><u><b>GENDER</b></h6></u></h>
+           <div class="button">
+           <p class="e"><input type="button" value="Male"  ONCLICK="compute(this.form)"></p>
+           </div>
+           <p class="e"><input type="button" value="Female" ONCLICK="tomm(this.form)"></p>
+           <p class="d">Date of Birth: <input TYPE="text" NAME="result1" SIZE="18"> </p>
+           <p class="d">Akan Name: <input TYPE="text" NAME="result2" SIZE="18"> </p>
+           </table>
+         </form>
+       </div>
+     </div>
+  </section>
+
 </body>
 </html>
