@@ -6,6 +6,7 @@ This is a web application that takes a user's birthday and calculates the day of
 Akan names are derived from Ghanian culture.
 Frequently in Ghana, children are given their first name as a 'day name' which corresponds to the day in the week they were born. 
 Here are Ghanian day names;
+For Male Children
 - Sunday: Kwasi
 - Monday: Kwadwo
 - Tuesday: Kwabena
@@ -13,6 +14,14 @@ Here are Ghanian day names;
 - Thursday:  Yaw
 - Friday: Kofi
 - Saturday: Kwame
+For Female Children:
+- Sunday: Akosua
+- Monday: Adwoa
+- Tuesday: Abenaa
+- Wednesday: Akua
+- Thursday:  Yaa
+- Friday: Afua
+- Saturday: Ama
 . It entails some background information about myself from birth to where I am right now. It also details some projects i have done since joining Moringa School and learning how to code.
 ![Screenshot from 2021-06-09 15-57-27](https://user-images.githubusercontent.com/85164123/121359082-cf1d7600-c93b-11eb-94a2-44d9fc0caec9.png)
 ## Setup/Installation Requirements
