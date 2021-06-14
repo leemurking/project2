@@ -32,8 +32,8 @@ Saturday: Ama
 No known bugs
 ## Technologies Used
 - Html
--Css
--JavaScript
+- Css
+- JavaScript
 ## Support and contact details
 grant.okello@student.moringaschool.com on Slack 
 ### License
