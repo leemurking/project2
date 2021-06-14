@@ -23,7 +23,7 @@ Thursday:  Yaa
 Friday: Afua
 Saturday: Ama
   NB:It details information bout the Akan cultureand some of their raditions.
-![Screenshot from 2021-06-14 11-34-30](https://user-images.githubusercontent.com/85164123/121863475-90edd100-cd04-11eb-91a1-c40a620d820d.png)]
+![Screenshot from 2021-06-14 11-34-30](https://user-images.githubusercontent.com/85164123/121863475-90edd100-cd04-11eb-91a1-c40a620d820d.png)
 ## Setup/Installation Requirements
 - copy the url on arrow down
 - Clone on your computer
