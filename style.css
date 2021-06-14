@@ -43,28 +43,18 @@ h1{
     background-color: black;
 }
 
-.out{
-    font-weight: bolder;
-    color: white;
-}
-.d{
-    color: white;
-    text-align: center;
-}
 .e{
     text-align: center;
 }
-h6{
-    color: white;
-}
+
 
 .w{
     color: white;
     text-align: center;
     font-weight: bolder;
 }
-.tng{
-    width: 600px;
-    height: auto;
-    object-fit: cover;
+.r{
+    color: white;
+    text-align: center;
+    font-weight: bolder;
 }
